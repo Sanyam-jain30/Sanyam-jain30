@@ -62,7 +62,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sanyam-jain30&hide_border=true&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Sanyam-jain30&theme=tokyonight&row=2&column=5&no-frame=true&margin-h=15&margin-w=15&no-bg=true&rank=SSS,SS,S,AAA,AA,A" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
